@@ -1,8 +1,8 @@
-# 🛡️ Python Network Intrusion Detection System (IDS)
+  Python Network Intrusion Detection System (IDS)
 
 A real-time Network Intrusion Detection System built with Python, Flask, and Scapy featuring a live web dashboard.
 
-## 🔥 Features
+  Features
 
 - 📦 Real-time packet capture
 - 🔍 Port Scan Detection
@@ -13,7 +13,7 @@ A real-time Network Intrusion Detection System built with Python, Flask, and Sca
 - 🚨 Real-time Security Alerts
 - 📈 Live Traffic Charts
 
-## 🛠️ Technologies
+  Technologies
 
 - Python 3.10+
 - Flask (Web Dashboard)
@@ -21,7 +21,7 @@ A real-time Network Intrusion Detection System built with Python, Flask, and Sca
 - JavaScript (Charts)
 - HTML/CSS (Dashboard UI)
 
-## 📦 Installation
+  Installation
 
 ```bash
 # Clone the repository
@@ -37,7 +37,7 @@ source venv/bin/activate  # Linux
 pip install -r requirements.txt
 ```
 
-## 🚀 Run
+  Run
 
 ```bash
 python app.py
@@ -45,18 +45,17 @@ python app.py
 
 Open browser: `http://127.0.0.1:5000`
 
-## ⚠️ Requirements
+  Requirements
 
 - Windows: Run as Administrator
 - Install [Npcap](https://npcap.com) for Windows
 
-## 📊 Dashboard Preview
+  Dashboard Preview
 
 - Live packet monitoring
 - Security alerts table
 - Traffic distribution chart
 - Top hosts bar chart
 
-## 👤 Author
-
-Built for Cybersecurity Portfolio
+  Author
+Vishwajanithudyada
